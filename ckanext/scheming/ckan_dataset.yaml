@@ -20,7 +20,10 @@ dataset_fields:
   form_placeholder: eg. my-dataset
 
 - field_name: notes
-  label: Description
+  label: {
+     en: Description,
+     ar: تفصيل
+  }
   form_snippet: markdown.html
   form_placeholder: eg. Some useful notes about the data
 
