@@ -11,7 +11,7 @@ dataset_fields:
   preset: title
   form_placeholder: eg. A descriptive title
   
-- field_name: title
+- field_name: title_ar
   label: العنوان
   preset: title
   form_placeholder: eg. A descriptive title
