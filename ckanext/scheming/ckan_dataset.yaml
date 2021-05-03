@@ -13,10 +13,9 @@ dataset_fields:
 
 - field_name: title_translated
   label: {
-    EN: Title,
     AR: العنوان
   }
-  form_languages: [EN, AR]
+  form_languages: [AR]
   preset: fluent_core_translated
   form_placeholder: eg. A descriptive title
 
