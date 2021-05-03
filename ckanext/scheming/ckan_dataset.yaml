@@ -11,6 +11,14 @@ dataset_fields:
   preset: title
   form_placeholder: eg. A descriptive title
 
+- field_name: title_translated
+  label: {
+    en: Title,
+    fr: العنوان
+  }
+  preset: fluent_core_translated
+  form_placeholder: eg. A descriptive title
+
 - field_name: name
   label: URL
   preset: dataset_slug
