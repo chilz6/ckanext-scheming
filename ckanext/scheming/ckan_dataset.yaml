@@ -11,6 +11,7 @@ dataset_fields:
      en: Title,
      ar: العنوان
   }
+  form_languages: ["en", "ar"]
   preset: title
   form_placeholder: eg. A descriptive title
 
@@ -24,6 +25,7 @@ dataset_fields:
      en: Description,
      ar: تفصيل
   }
+  form_languages: ["en", "ar"]
   form_snippet: markdown.html
   form_placeholder: eg. Some useful notes about the data
 
