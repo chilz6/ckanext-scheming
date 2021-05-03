@@ -7,7 +7,10 @@ about_url: http://github.com/ckan/ckanext-scheming
 dataset_fields:
 
 - field_name: title
-  label: Title
+  label: {
+     en: Title,
+     ar: العنوان
+  }
   preset: title
   form_placeholder: eg. A descriptive title
 
